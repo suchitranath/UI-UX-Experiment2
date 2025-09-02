@@ -1,6 +1,6 @@
 # UI-UX-Experiment2
 
-## Aim:
+## Aim: To design responsive mobile and web layouts for an existing digital product
 
 ## Algorithm:
 Step 1: Select an Existing Case Study
@@ -27,5 +27,10 @@ Step 6: Review and Document
 
 Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 ## Output:
+<img width="1016" height="473" alt="image" src="https://github.com/user-attachments/assets/d93a11ee-bf9b-4d16-ab10-0e0b7e93e65a" />
+<img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/a965761e-639c-4e52-ae32-3a5c449f6f3d" />
+LOGO
+<img width="715" height="757" alt="image" src="https://github.com/user-attachments/assets/4c72c6a0-fd10-4e75-93bd-969cc9d5501e" />
 
 ## Result:
+Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. 
